@@ -17,9 +17,7 @@ Ecommerce store for audio products.
 
 ## Demo
 
-<a href="https://ecom-next-itijf1b3t-vaibbhavk.vercel.app/" target="_blank">Link</a>
-
-<a href="http://example.com/" target="_blank" rel="noopener noreferrer">Hello, world!</a>
+[Live](https://ecom-next-itijf1b3t-vaibbhavk.vercel.app/)
 
 ## Run Locally
 
